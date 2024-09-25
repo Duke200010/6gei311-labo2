@@ -1,0 +1,1 @@
+2024/09/25 09:48:12 [error] 20120#11204: *1 CreateFile() "c:\Users\mndiaye27\Documents\nginx-1.27.1/html/favicon.ico" failed (2: Le fichier spécifié est introuvable), client: 192.168.236.96, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "172.16.14.36"
